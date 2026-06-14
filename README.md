@@ -13,7 +13,9 @@
 </div>
 
 <div align="center">
-    <h2>Tecnologias</h2>
+    <h2>
+      Tecnologias que utilizo
+    </h2>
 </div>
 
 <div align="center">
