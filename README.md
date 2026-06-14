@@ -17,7 +17,7 @@
 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antoniococcoli/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-coccoli-96a915398/)
-  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5521983260996?text=Olá,fiqueavontadeparaentraremcontato!)
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5521983260996?text=Olá%2Cfique%20a%20vontade%20para%20entrar%20em%20contato%21)
   
 </div>
 
