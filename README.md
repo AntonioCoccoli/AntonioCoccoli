@@ -1,6 +1,9 @@
 <img width="100%" height="600" alt="WhatsApp Image 2026-06-13 at 16 23 19" src="https://github.com/user-attachments/assets/76fc3730-8b68-41c4-88f5-d5f51f21dd3b" />
 
 
+
+
+
   Graduando em Análise e desenvolvimento de Sistemas (UNINTER) e dedicado ao aprendizado contínuo em desenvolvimento Web com foco em Front-end.
 
 
