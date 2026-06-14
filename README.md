@@ -7,7 +7,7 @@
   Meu objetivo é construir interfaces modernas, responsivas e acessíveis, melhorando constantemente para atuar profissionalmente como Desenvolvedor Front-end.
   
 ![AntonioCoccoli GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCoccoli&show_icons=true&theme=date_night)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.7&count_weight=0.4)
 
 <div align="center">
   <h1>Minhas Redes</h1>
