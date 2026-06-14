@@ -13,5 +13,8 @@
   <h1>Minhas Redes</h1>
 </div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-coccoli-96a915398/)
+<div align="center">
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-coccoli-96a915398/)
+</div>
+
 
