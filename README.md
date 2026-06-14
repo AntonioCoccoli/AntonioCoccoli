@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  <img width="100" height="90" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/8c24b670-e204-4d42-b01d-0a1ad2f1c891" />
+ [![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
 
 </div>
 
