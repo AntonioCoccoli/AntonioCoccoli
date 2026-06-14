@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCoccoli&layout=compact)
 
 <div align="center">
-  ## Minhas Redes
+  <h1>Minhas Redes</h1>
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-coccoli-96a915398/)
