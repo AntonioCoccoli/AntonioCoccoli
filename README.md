@@ -14,8 +14,7 @@
 
 <div align="center">
   
-  <img width="1100" height="600" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/8c24b670-e204-4d42-b01d-0a1ad2f1c891" />
-  <img width="1280" height="720" alt="css-3" src="https://github.com/user-attachments/assets/63410d7e-6a05-47ec-9416-5d8851b6019c" />
+  <img width="24" height="24" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/8c24b670-e204-4d42-b01d-0a1ad2f1c891" />
 
 </div>
 
