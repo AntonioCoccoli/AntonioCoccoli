@@ -2,7 +2,7 @@
 
   Graduando em Análise e desenvolvimento de Sistemas (UNINTER) e dedicado ao aprendizado contínuo em desenvolvimento Web com foco em Front-end.
   
-  Este GitHub reúne projetos, desafios e estudos que refletem minha evolução como desenvolvedor e meu compromisso com o aprendizado.
+  Este GitHub reúne projetos, desafios e estudos que refletem minha evolução como Programador e meu compromisso com o aprendizado.
   
   Meu objetivo é construir interfaces modernas, responsivas e acessíveis, melhorando constantemente para atuar profissionalmente como Desenvolvedor Front-end.
   
