@@ -6,14 +6,17 @@
   
   Meu objetivo é construir interfaces modernas, responsivas e acessíveis, melhorando constantemente para atuar profissionalmente como Desenvolvedor Front-end.
   
-<div style="border:none"  align="center">
+<div align="center">
   
 ![AntonioCoccoli GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCoccoli&show_icons=true&theme=highcontrast)
 
 </div>
 
-<div>
+<div align="center">
   
+  <img width="1100" height="600" alt="HTML-5-Badge-Logo" src="https://github.com/user-attachments/assets/8c24b670-e204-4d42-b01d-0a1ad2f1c891" />
+  <img width="1280" height="720" alt="css-3" src="https://github.com/user-attachments/assets/63410d7e-6a05-47ec-9416-5d8851b6019c" />
+
 </div>
 
 <div align="center">
