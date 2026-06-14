@@ -14,7 +14,7 @@
 
 <div align="center">
     <h2>
-      Tecnologias que utilizo
+        Minhas Habilidades 
     </h2>
 </div>
 
