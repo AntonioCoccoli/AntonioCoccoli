@@ -8,7 +8,7 @@
   
 <div align="center">
   
-  ![AntonioCoccoli GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCoccoli&show_icons=true&theme=highcontrast)
+  ![AntonioCoccoli GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCoccoli&show_icons=true&theme=radical)
 
 </div>
 
