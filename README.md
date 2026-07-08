@@ -6,11 +6,7 @@
   
   Meu objetivo é construir interfaces modernas, responsivas e acessíveis, melhorando constantemente para atuar profissionalmente como Desenvolvedor Front-end.
   
-<div align="center">
-  
-  ![AntonioCoccoli GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCoccoli&show_icons=true&theme=dracula)
 
-</div>
 
 <div align="center">
     <h2>
